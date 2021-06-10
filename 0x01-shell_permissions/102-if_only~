@@ -1,0 +1,5 @@
+#!/bin/bash
+if user = guillaume
+then
+chown betty hello
+fi
